@@ -1,0 +1,438 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BOOL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	102;"	t	line:102
+BOOL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	91;"	d	line:91
+BYTE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	104;"	t	line:104
+BYTE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	94;"	d	line:94
+BYTE_VAL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	131;"	t	line:131
+CF_C	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	14;"	d	line:14	file:
+CF_C_INIT	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	21;"	d	line:21
+CLEAR_WATCHDOG_TIMER::ClrWdt	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	81;"	d	line:81
+DISABLE_INT::INTCONbits.GIE=0	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	70;"	d	line:70
+DWORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	112;"	t	line:112
+DWORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	98;"	d	line:98
+DWORD_VAL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	164;"	t	line:164
+ENABLE_INT::INTCONbits.GIE=1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	69;"	d	line:69
+FALSE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	102;"	e	line:102	enum:_BOOL
+FALSE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	93;"	d	line:93
+FFS_ADDRESS_BIT_0::0x01	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	56;"	d	line:56
+FFS_ADDRESS_BIT_1::0x02	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	57;"	d	line:57
+FFS_ADDRESS_BIT_2::0x04	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	58;"	d	line:58
+FFS_ADDRESS_REGISTER::LATE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	55;"	d	line:55
+FFS_C	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	14;"	d	line:14	file:
+FFS_CD_PIN_BIT::0x20	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	68;"	d	line:68
+FFS_CD_PIN_REGISTER::PORTC	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	67;"	d	line:67
+FFS_CE::LATCbits.LATC2	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	47;"	d	line:47
+FFS_C_INIT	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	59;"	d	line:59
+FFS_DATA_BUS_IP::PORTD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	41;"	d	line:41
+FFS_DATA_BUS_OP::LATD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	42;"	d	line:42
+FFS_DATA_BUS_TO_INPUTS::TRISD=0xff	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	43;"	d	line:43
+FFS_DATA_BUS_TO_OUTPUTS::TRISD=0x00	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	44;"	d	line:44
+FFS_DELAY_FOR_RDY_SIGNAL::Nop;Nop;Nop;Nop;	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	92;"	d	line:92
+FFS_DELAY_FOR_WAIT_SIGNAL::Nop;Nop;	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	91;"	d	line:91
+FFS_DRIVER_GEN_512_BYTE_BUFFER::ffs_general_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	73;"	d	line:73
+FFS_EOF::-1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	173;"	d	line:173
+FFS_FILE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	162;"	t	line:162
+FFS_FOPEN_MAX::2	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	92;"	d	line:92
+FFS_OE::LATCbits.LATC1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	49;"	d	line:49
+FFS_PROCESS_CARD_INITIALSIED	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	105;"	e	line:105	enum:_FFS_PROCESS_STATE
+FFS_PROCESS_COMPLETE_RESET	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	103;"	e	line:103	enum:_FFS_PROCESS_STATE
+FFS_PROCESS_NO_CARD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	101;"	e	line:101	enum:_FFS_PROCESS_STATE
+FFS_PROCESS_STATE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	106;"	t	line:106
+FFS_PROCESS_WAIT_FOR_CARD_FULLY_INSERTED	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	102;"	e	line:102	enum:_FFS_PROCESS_STATE
+FFS_PROCESS_WAIT_FOR_CARD_RESET	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	104;"	e	line:104	enum:_FFS_PROCESS_STATE
+FFS_RDY::PORTBbits.RB4	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	51;"	d	line:51
+FFS_REG::LATBbits.LATB5	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	50;"	d	line:50
+FFS_RESET_PIN_BIT::0x08	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	63;"	d	line:63
+FFS_RESET_PIN_REGISTER::LATA	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	62;"	d	line:62
+FFS_SEEK_CUR::1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	168;"	d	line:168
+FFS_SEEK_END::2	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	169;"	d	line:169
+FFS_SEEK_SET::0	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	167;"	d	line:167
+FFS_USING_MICROCHIP_C18_COMPILER	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	29;"	d	line:29
+FFS_USING_MICROCHIP_C18_COMPILER	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	66;"	d	line:66
+FFS_WAIT::PORTBbits.RB3	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	52;"	d	line:52
+FFS_WE::LATCbits.LATC0	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	48;"	d	line:48
+GLOBAL_DATA_TYPE_INIT	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	89;"	d	line:89
+HILSB	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	155;"	m	line:155	struct:_DWORD_VAL::<anonymous>
+HIMSB	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	156;"	m	line:156	struct:_DWORD_VAL::<anonymous>
+INSTRUCTION_CLOCK_FREQUENCY::10000000	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	63;"	d	line:63
+IN_DEVELOPMENT_MODE::	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	20;"	d	line:20
+LED1_OFF::LATAbits.LATA4	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	31;"	d	line:31
+LED2_OFF::LATAbits.LATA5	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	32;"	d	line:32
+LOLSB	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	153;"	m	line:153	struct:_DWORD_VAL::<anonymous>
+LOMSB	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	154;"	m	line:154	struct:_DWORD_VAL::<anonymous>
+LOWER_LSB::(a)((a).v[0])	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	165;"	d	line:165
+LOWER_MSB::(a)((a).v[1])	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	166;"	d	line:166
+LSB	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	139;"	m	line:139	struct:_WORD_VAL::<anonymous>
+LSB::(a)((a).v[0])	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	144;"	d	line:144
+LSW	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	160;"	m	line:160	struct:_DWORD_VAL::<anonymous>
+MAIN_C::	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	15;"	d	line:15	file:
+MAIN_C_INIT	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	20;"	d	line:20
+MSB	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	140;"	m	line:140	struct:_WORD_VAL::<anonymous>
+MSB::(a)((a).v[1])	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	145;"	d	line:145
+MSW	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	161;"	m	line:161	struct:_DWORD_VAL::<anonymous>
+RS485_DIRECTION_TO_TX::LATBbits.LATB2	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	30;"	d	line:30
+SIGNED_BYTE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	106;"	t	line:106
+SIGNED_BYTE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	95;"	d	line:95
+SIGNED_DWORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	114;"	t	line:114
+SIGNED_DWORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	99;"	d	line:99
+SIGNED_WORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	110;"	t	line:110
+SIGNED_WORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	97;"	d	line:97
+SWITCH_1_NEW_PRESS::switches_new&0x01	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	40;"	d	line:40
+SWITCH_1_PRESSED::switches_debounced&0x01	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	37;"	d	line:37
+SWITCH_2_NEW_PRESS::switches_new&0x02	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	41;"	d	line:41
+SWITCH_2_PRESSED::switches_debounced&0x02	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	38;"	d	line:38
+TRUE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	102;"	e	line:102	enum:_BOOL
+TRUE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	92;"	d	line:92
+UPPER_LSB::(a)((a).v[2])	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	167;"	d	line:167
+UPPER_MSB::(a)((a).v[3])	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	168;"	d	line:168
+Val	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	130;"	m	line:130	union:_BYTE_VAL
+WORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	108;"	t	line:108
+WORD	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	96;"	d	line:96
+WORD_VAL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	143;"	t	line:143
+_BOOL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	102;"	g	line:102
+_BYTE_VAL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	117;"	u	line:117
+_DWORD_VAL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	148;"	u	line:148
+_FFS_FILE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	135;"	s	line:135
+_FFS_PROCESS_STATE	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	99;"	g	line:99
+_WORD_VAL	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	134;"	u	line:134
+access_error	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	154;"	m	line:154	struct:_FFS_FILE::<anonymous>::<anonymous>
+active_fat_table_flags	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	198;"	v	line:198
+append_access_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	516;"	v	line:516
+append_read_access_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	519;"	v	line:519
+asm_irq_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	102;"	v	line:102
+asm_irq_temp1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	103;"	v	line:103
+asterix_wildcard_used	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1652;"	l	line:1652
+athighvector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	777;"	f	line:777	signature:(void)
+atlowvector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	787;"	f	line:787	signature:(void)
+attribute_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1202;"	l	line:1202
+attribute_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1373;"	l	line:1373
+attribute_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2163;"	l	line:2163
+attribute_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	55;"	l	line:55
+b0	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	121;"	m	line:121	struct:_BYTE_VAL::<anonymous>
+b1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	122;"	m	line:122	struct:_BYTE_VAL::<anonymous>
+b2	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	123;"	m	line:123	struct:_BYTE_VAL::<anonymous>
+b3	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	124;"	m	line:124	struct:_BYTE_VAL::<anonymous>
+b4	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	125;"	m	line:125	struct:_BYTE_VAL::<anonymous>
+b5	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	126;"	m	line:126	struct:_BYTE_VAL::<anonymous>
+b6	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	127;"	m	line:127	struct:_BYTE_VAL::<anonymous>
+b7	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	128;"	m	line:128	struct:_BYTE_VAL::<anonymous>
+b_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	539;"	l	line:539
+b_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	36;"	l	line:36
+b_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1783;"	l	line:1783
+bits	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	129;"	m	line:129	union:_BYTE_VAL
+bits	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	158;"	m	line:158	union:_FFS_FILE::<anonymous>
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	43;"	l	line:43
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	629;"	l	line:629
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	706;"	l	line:706
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1114;"	l	line:1114
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1208;"	l	line:1208
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1786;"	l	line:1786
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2004;"	l	line:2004
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2092;"	l	line:2092
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2245;"	l	line:2245
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2345;"	l	line:2345
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2397;"	l	line:2397
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	634;"	l	line:634
+buffer_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	779;"	l	line:779
+byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	141;"	m	line:141	union:_WORD_VAL
+byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	157;"	m	line:157	union:_DWORD_VAL
+bytes_per_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	272;"	l	line:272
+bytes_to_new_posn	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	271;"	l	line:271
+c_string_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	540;"	l	line:540
+calculate_new_posn	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	273;"	l	line:273
+converted_file_extension	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1199;"	l	line:1199
+converted_file_extension	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1370;"	l	line:1370
+converted_file_extension	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1555;"	l	line:1555
+converted_file_extension	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2157;"	l	line:2157
+converted_file_name	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1198;"	l	line:1198
+converted_file_name	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1369;"	l	line:1369
+converted_file_name	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1554;"	l	line:1554
+converted_file_name	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2156;"	l	line:2156
+count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	628;"	l	line:628
+count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	705;"	l	line:705
+count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2398;"	l	line:2398
+count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	56;"	l	line:56
+current_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	141;"	m	line:141	struct:_FFS_FILE
+current_byte_within_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	142;"	m	line:142	struct:_FFS_FILE
+current_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1788;"	l	line:1788	file:
+current_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	139;"	m	line:139	struct:_FFS_FILE
+current_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	140;"	m	line:140	struct:_FFS_FILE
+cylinder_no	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	33;"	l	line:33
+data	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	844;"	l	line:844
+data	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	890;"	l	line:890
+data	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2342;"	l	line:2342
+data	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	777;"	l	line:777
+data_area_start_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	193;"	v	line:193
+directory_entry_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1204;"	l	line:1204
+directory_entry_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1374;"	l	line:1374
+directory_entry_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	137;"	m	line:137	struct:_FFS_FILE
+directory_entry_within_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1205;"	l	line:1205
+directory_entry_within_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1375;"	l	line:1375
+directory_entry_within_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	138;"	m	line:138	struct:_FFS_FILE
+disk_is_fat_32	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	194;"	v	line:194
+done_read_of_fat_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2402;"	l	line:2402
+dw_count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2241;"	l	line:2241
+dw_count1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2242;"	l	line:2242
+dw_data	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2239;"	l	line:2239
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	38;"	l	line:38
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1207;"	l	line:1207
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1785;"	l	line:1785
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2344;"	l	line:2344
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2401;"	l	line:2401
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	270;"	l	line:270
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	633;"	l	line:633
+dw_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	778;"	l	line:778
+end_of_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	155;"	m	line:155	struct:_FFS_FILE::<anonymous>::<anonymous>
+fat1_start_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	191;"	v	line:191
+fat_entries_per_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1206;"	l	line:1206
+fat_entries_per_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2243;"	l	line:2243
+fat_entries_per_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2341;"	l	line:2341
+fat_entries_per_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2399;"	l	line:2399
+ffs_10ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	291;"	v	line:291
+ffs_buffer_contains_lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	190;"	v	line:190
+ffs_buffer_needs_writing_to_card	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	189;"	v	line:189
+ffs_bytes_per_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	292;"	v	line:292
+ffs_card_ok	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	290;"	v	line:290
+ffs_card_reset_pin	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	599;"	f	line:599	signature:(BYTE pin_state)
+ffs_card_reset_pin	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	132;"	p	line:132	signature:(BYTE pin_state)
+ffs_card_reset_pin	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	149;"	p	line:149	signature:(BYTE pin_state)
+ffs_clearerr	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1433;"	f	line:1433	signature:(FFS_FILE *file_pointer)
+ffs_clearerr	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	222;"	p	line:222	signature:(FFS_FILE *file_pointer)
+ffs_clearerr	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	254;"	p	line:254	signature:(FFS_FILE *file_pointer)
+ffs_convert_filename_to_dos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1647;"	f	line:1647	signature:(const char *source_filename, BYTE *dos_filename, BYTE *dos_extension)
+ffs_convert_filename_to_dos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	191;"	p	line:191	signature:(const char *source_filename, BYTE *dos_filename, BYTE *dos_extension)
+ffs_create_new_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2151;"	f	line:2151	signature:(const char *file_name, DWORD *write_file_start_cluster, DWORD *directory_entry_sector, BYTE *directory_entry_within_sector)
+ffs_create_new_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	195;"	p	line:195	signature:(const char *file_name, DWORD *write_file_start_cluster, DWORD *directory_entry_sector, BYTE *directory_entry_within_sector)
+ffs_fclose	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1167;"	f	line:1167	signature:(FFS_FILE *file_pointer)
+ffs_fclose	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	219;"	p	line:219	signature:(FFS_FILE *file_pointer)
+ffs_fclose	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	251;"	p	line:251	signature:(FFS_FILE *file_pointer)
+ffs_feof	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1450;"	f	line:1450	signature:(FFS_FILE *file_pointer)
+ffs_feof	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	223;"	p	line:223	signature:(FFS_FILE *file_pointer)
+ffs_feof	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	255;"	p	line:255	signature:(FFS_FILE *file_pointer)
+ffs_ferror	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1469;"	f	line:1469	signature:(FFS_FILE *file_pointer)
+ffs_ferror	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	224;"	p	line:224	signature:(FFS_FILE *file_pointer)
+ffs_ferror	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	256;"	p	line:256	signature:(FFS_FILE *file_pointer)
+ffs_fflush	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1112;"	f	line:1112	signature:(FFS_FILE *file_pointer)
+ffs_fflush	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	218;"	p	line:218	signature:(FFS_FILE *file_pointer)
+ffs_fflush	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	250;"	p	line:250	signature:(FFS_FILE *file_pointer)
+ffs_fgetc	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	775;"	f	line:775	signature:(FFS_FILE *file_pointer)
+ffs_fgetc	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	212;"	p	line:212	signature:(FFS_FILE *file_pointer)
+ffs_fgetc	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	244;"	p	line:244	signature:(FFS_FILE *file_pointer)
+ffs_fgetpos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	587;"	f	line:587	signature:(FFS_FILE *file_pointer, long *position)
+ffs_fgetpos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	209;"	p	line:209	signature:(FFS_FILE *file_pointer, long *position)
+ffs_fgetpos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	241;"	p	line:241	signature:(FFS_FILE *file_pointer, long *position)
+ffs_fgets	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	978;"	f	line:978	signature:(char *string, int length, FFS_FILE *file_pointer)
+ffs_fgets	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	215;"	p	line:215	signature:(char *string, int length, FFS_FILE *file_pointer)
+ffs_fgets	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	247;"	p	line:247	signature:(char *string, int length, FFS_FILE *file_pointer)
+ffs_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	289;"	v	line:289
+ffs_find_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1548;"	f	line:1548	signature:(const char *filename, DWORD *file_size, BYTE *attribute_byte, DWORD *directory_entry_sector, BYTE *directory_entry_within_sector, BYTE *read_file_name, BYTE *read_file_extension)
+ffs_find_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	190;"	p	line:190	signature:(const char *filename, DWORD *file_size, BYTE *attribute_byte, DWORD *directory_entry_sector, BYTE *directory_entry_within_sector, BYTE *read_file_name, BYTE *read_file_extension)
+ffs_fopen	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	52;"	f	line:52	signature:(const char *filename, const char *access_mode)
+ffs_fopen	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	205;"	p	line:205	signature:(const char *filename, const char *access_mode)
+ffs_fopen	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	237;"	p	line:237	signature:(const char *filename, const char *access_mode)
+ffs_fputc	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	631;"	f	line:631	signature:(int data, FFS_FILE *file_pointer)
+ffs_fputc	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	211;"	p	line:211	signature:(int data, FFS_FILE *file_pointer)
+ffs_fputc	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	243;"	p	line:243	signature:(int data, FFS_FILE *file_pointer)
+ffs_fputs	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	920;"	f	line:920	signature:(const char *string, FFS_FILE *file_pointer)
+ffs_fputs	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	213;"	p	line:213	signature:(const char *string, FFS_FILE *file_pointer)
+ffs_fputs	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	245;"	p	line:245	signature:(const char *string, FFS_FILE *file_pointer)
+ffs_fputs_char	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	942;"	f	line:942	signature:(char *string, FFS_FILE *file_pointer)
+ffs_fputs_char	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	214;"	p	line:214	signature:(char *string, FFS_FILE *file_pointer)
+ffs_fputs_char	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	246;"	p	line:246	signature:(char *string, FFS_FILE *file_pointer)
+ffs_fread	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1067;"	f	line:1067	signature:(void *buffer, int size, int count, FFS_FILE *file_pointer)
+ffs_fread	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	217;"	p	line:217	signature:(void *buffer, int size, int count, FFS_FILE *file_pointer)
+ffs_fread	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	249;"	p	line:249	signature:(void *buffer, int size, int count, FFS_FILE *file_pointer)
+ffs_fseek	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	268;"	f	line:268	signature:(FFS_FILE *file_pointer, long offset, int origin)
+ffs_fseek	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	206;"	p	line:206	signature:(FFS_FILE *file_pointer, long offset, int origin)
+ffs_fseek	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	238;"	p	line:238	signature:(FFS_FILE *file_pointer, long offset, int origin)
+ffs_fsetpos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	543;"	f	line:543	signature:(FFS_FILE *file_pointer, long *position)
+ffs_fsetpos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	207;"	p	line:207	signature:(FFS_FILE *file_pointer, long *position)
+ffs_fsetpos	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	239;"	p	line:239	signature:(FFS_FILE *file_pointer, long *position)
+ffs_ftell	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	562;"	f	line:562	signature:(FFS_FILE *file_pointer)
+ffs_ftell	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	208;"	p	line:208	signature:(FFS_FILE *file_pointer)
+ffs_ftell	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	240;"	p	line:240	signature:(FFS_FILE *file_pointer)
+ffs_fwrite	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1025;"	f	line:1025	signature:(const void *buffer, int size, int count, FFS_FILE *file_pointer)
+ffs_fwrite	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	216;"	p	line:216	signature:(const void *buffer, int size, int count, FFS_FILE *file_pointer)
+ffs_fwrite	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	248;"	p	line:248	signature:(const void *buffer, int size, int count, FFS_FILE *file_pointer)
+ffs_general_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	306;"	v	line:306
+ffs_get_next_cluster_no	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2339;"	f	line:2339	signature:(DWORD current_cluster)
+ffs_get_next_cluster_no	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	197;"	p	line:197	signature:(DWORD current_cluster)
+ffs_get_next_free_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2236;"	f	line:2236	signature:(void)
+ffs_get_next_free_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	196;"	p	line:196	signature:(void)
+ffs_getc::(file_pointer)ffs_fgetc(file_p	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	230;"	d	line:230
+ffs_getc::(file_pointer)ffs_fgetc(file_p	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	262;"	d	line:262
+ffs_is_card_available	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1490;"	f	line:1490	signature:(void)
+ffs_is_card_available	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	225;"	p	line:225	signature:(void)
+ffs_is_card_available	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	257;"	p	line:257	signature:(void)
+ffs_is_card_present	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	574;"	f	line:574	signature:(void)
+ffs_is_card_present	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	131;"	p	line:131	signature:(void)
+ffs_is_card_present	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	148;"	p	line:148	signature:(void)
+ffs_modify_cluster_entry_in_fat	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2394;"	f	line:2394	signature:(DWORD cluster_to_modify, DWORD cluster_entry_new_value)
+ffs_modify_cluster_entry_in_fat	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	198;"	p	line:198	signature:(DWORD cluster_to_modify, DWORD cluster_entry_new_value)
+ffs_no_of_heads	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	175;"	v	line:175
+ffs_no_of_partition_sectors	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	177;"	v	line:177
+ffs_no_of_sectors_per_track	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	176;"	v	line:176
+ffs_overwrite_last_directory_entry	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2001;"	f	line:2001	signature:(BYTE *file_name, BYTE *file_extension, BYTE *attribute_byte, DWORD *file_size, DWORD *cluster_number)
+ffs_overwrite_last_directory_entry	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	193;"	p	line:193	signature:(BYTE *file_name, BYTE *file_extension, BYTE *attribute_byte, DWORD *file_size, DWORD *cluster_number)
+ffs_process	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	30;"	f	line:30	signature:(void)
+ffs_process	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	130;"	p	line:130	signature:(void)
+ffs_process	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	147;"	p	line:147	signature:(void)
+ffs_process	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	236;"	p	line:236	signature:(void)
+ffs_putc::(data,file_pointer)ffs_fputc(d	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	229;"	d	line:229
+ffs_putc::(data,file_pointer)ffs_fputc(d	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	261;"	d	line:261
+ffs_read_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	888;"	f	line:888	signature:(void)
+ffs_read_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	138;"	p	line:138	signature:(void)
+ffs_read_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	155;"	p	line:155	signature:(void)
+ffs_read_next_directory_entry	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1779;"	f	line:1779	signature:(BYTE *file_name, BYTE *file_extension, BYTE *attribute_byte, DWORD *file_size, DWORD *cluster_number, BYTE start_from_beginning, DWORD *directory_entry_sector, BYTE *directory_entry_within_sector)
+ffs_read_next_directory_entry	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	192;"	p	line:192	signature:(BYTE *file_name, BYTE *file_extension, BYTE *attribute_byte, DWORD *file_size, DWORD *cluster_number, BYTE start_from_beginning, DWORD *directory_entry_sector, BYTE *directory_entry_within_sector)
+ffs_read_sector_to_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	626;"	f	line:626	signature:(DWORD sector_lba)
+ffs_read_sector_to_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	133;"	p	line:133	signature:(DWORD sector_lba)
+ffs_read_sector_to_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	150;"	p	line:150	signature:(DWORD sector_lba)
+ffs_read_word	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	842;"	f	line:842	signature:(void)
+ffs_read_word	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	137;"	p	line:137	signature:(void)
+ffs_read_word	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	154;"	p	line:154	signature:(void)
+ffs_remove	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1193;"	f	line:1193	signature:(const char *filename)
+ffs_remove	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	220;"	p	line:220	signature:(const char *filename)
+ffs_remove	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	252;"	p	line:252	signature:(const char *filename)
+ffs_rename	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1367;"	f	line:1367	signature:(const char *old_filename, const char *new_filename)
+ffs_rename	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	221;"	p	line:221	signature:(const char *old_filename, const char *new_filename)
+ffs_rename	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	253;"	p	line:253	signature:(const char *old_filename, const char *new_filename)
+ffs_rewind	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	609;"	f	line:609	signature:(FFS_FILE *file_pointer)
+ffs_rewind	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	210;"	p	line:210	signature:(FFS_FILE *file_pointer)
+ffs_rewind	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	242;"	p	line:242	signature:(FFS_FILE *file_pointer)
+ffs_set_address	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	756;"	f	line:756	signature:(BYTE address)
+ffs_set_address	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	135;"	p	line:135	signature:(BYTE address)
+ffs_set_address	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	152;"	p	line:152	signature:(BYTE address)
+ffs_write_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	803;"	f	line:803	signature:(BYTE data)
+ffs_write_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	136;"	p	line:136	signature:(BYTE data)
+ffs_write_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	153;"	p	line:153	signature:(BYTE data)
+ffs_write_sector_from_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	703;"	f	line:703	signature:(DWORD sector_lba)
+ffs_write_sector_from_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	134;"	p	line:134	signature:(DWORD sector_lba)
+ffs_write_sector_from_buffer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	151;"	p	line:151	signature:(DWORD sector_lba)
+file_is_open	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	149;"	m	line:149	struct:_FFS_FILE::<anonymous>::<anonymous>
+file_number	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	54;"	l	line:54
+file_size	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2155;"	l	line:2155
+file_size	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	143;"	m	line:143	struct:_FFS_FILE
+file_size_has_changed	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	156;"	m	line:156	struct:_FFS_FILE::<anonymous>::<anonymous>
+file_system_information_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	174;"	v	line:174
+filename_all	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	510;"	v	line:510
+filename_test_csv	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	512;"	v	line:512
+filename_test_txt	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	511;"	v	line:511
+flags	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	160;"	m	line:160	struct:_FFS_FILE
+force_led1_off_10ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	97;"	v	line:97
+force_led2_off_10ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	98;"	v	line:98
+general_use_100ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	114;"	v	line:114
+general_use_10ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	113;"	v	line:113
+get_file_start_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2089;"	f	line:2089	signature:(FFS_FILE *file_pointer)
+get_file_start_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	194;"	p	line:194	signature:(FFS_FILE *file_pointer)
+hb_100ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	805;"	l	line:805	file:
+hb_1sec_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	806;"	l	line:806	file:
+head	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	32;"	l	line:32
+i_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	541;"	l	line:541
+inc_posn_before_next_rw	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	153;"	m	line:153	struct:_FFS_FILE::<anonymous>::<anonymous>
+initialise	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	138;"	f	line:138	signature:(void)
+initialise	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	62;"	p	line:62	signature:(void)
+interruptisrh	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	803;"	f	line:803	signature:(void)
+interruptisrh	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	65;"	p	line:65	signature:(void)
+interruptisrl	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	66;"	p	line:66	signature:(void)
+last_found_free_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	196;"	v	line:196
+lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	39;"	l	line:39
+lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1209;"	l	line:1209
+lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2240;"	l	line:2240
+lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2343;"	l	line:2343
+lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2396;"	l	line:2396
+lowest_cluster_number_released	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1203;"	l	line:1203
+main	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	322;"	f	line:322	signature:( void )
+main_partition_start_sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	40;"	l	line:40
+next_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1197;"	l	line:1197
+next_free_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2244;"	l	line:2244
+no_null_found_yet	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1650;"	l	line:1650
+number_of_copies_of_fat	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	42;"	l	line:42
+number_of_items_written	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1029;"	l	line:1029
+number_of_items_written	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1072;"	l	line:1072
+number_of_reserved_sectors	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	41;"	l	line:41
+number_of_root_directory_sectors	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	188;"	v	line:188
+our_file_0	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	537;"	l	line:537
+our_file_1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	538;"	l	line:538
+process_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	535;"	f	line:535	signature:(void)
+process_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	64;"	p	line:64	signature:(void)
+read_access_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	514;"	v	line:514
+read_attribute_byte	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2160;"	l	line:2160
+read_cluster_number	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1201;"	l	line:1201
+read_cluster_number	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1371;"	l	line:1371
+read_cluster_number	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1556;"	l	line:1556
+read_cluster_number	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2162;"	l	line:2162
+read_file_extension	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2159;"	l	line:2159
+read_file_extension	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	58;"	l	line:58
+read_file_name	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2158;"	l	line:2158
+read_file_name	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	57;"	l	line:57
+read_file_size	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1200;"	l	line:1200
+read_file_size	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1372;"	l	line:1372
+read_file_size	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2161;"	l	line:2161
+read_permitted	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	150;"	m	line:150	struct:_FFS_FILE::<anonymous>::<anonymous>
+read_switches	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	474;"	f	line:474	signature:(void)
+read_switches	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	63;"	p	line:63	signature:(void)
+read_switches_flag	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	95;"	v	line:95
+read_write_access_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	517;"	v	line:517
+read_write_directory_last_entry	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	200;"	v	line:200
+read_write_directory_last_lba	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	199;"	v	line:199
+reserved	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	157;"	m	line:157	struct:_FFS_FILE::<anonymous>::<anonymous>
+return_value	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1070;"	l	line:1070
+return_value	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	923;"	l	line:923
+return_value	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	945;"	l	line:945
+return_value	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	981;"	l	line:981
+root_directory_start_sector_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	192;"	v	line:192
+sector	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	34;"	l	line:34
+sectors_left_in_this_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1787;"	l	line:1787	file:
+sectors_per_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	195;"	v	line:195
+sectors_per_fat	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	197;"	v	line:197
+size_count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1027;"	l	line:1027
+size_count	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1069;"	l	line:1069
+sm_ffs_process	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.h	173;"	v	line:173
+spreadsheet_file_no_text_file_string	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	525;"	v	line:525
+start_cluster	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2091;"	l	line:2091
+string_Pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1028;"	l	line:1028
+string_Pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1071;"	l	line:1071
+string_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	922;"	l	line:922
+string_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	944;"	l	line:944
+string_pointer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	980;"	l	line:980
+switches_debounced	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	111;"	v	line:111
+switches_debounced_last	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	479;"	l	line:479	file:
+switches_last	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	478;"	l	line:478	file:
+switches_new	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	112;"	v	line:112
+switches_read	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	476;"	l	line:476
+switches_read_working	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	477;"	l	line:477
+temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1195;"	l	line:1195
+temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1376;"	l	line:1376
+temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1551;"	l	line:1551
+temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1649;"	l	line:1649
+temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2153;"	l	line:2153
+temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2400;"	l	line:2400
+temp1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1196;"	l	line:1196
+temp1	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2154;"	l	line:2154
+text_file_line1_string	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	523;"	v	line:523
+text_file_line2_string	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	524;"	v	line:524
+this_is_first_read	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1553;"	l	line:1553
+this_is_the_file	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1552;"	l	line:1552
+user_mode_10ms_timer	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.h	96;"	v	line:96
+v	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	142;"	m	line:142	union:_WORD_VAL
+v	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	163;"	m	line:163	union:_DWORD_VAL
+val	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	136;"	m	line:136	union:_WORD_VAL
+val	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	150;"	m	line:150	union:_DWORD_VAL
+w_data	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	2238;"	l	line:2238
+w_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-cf.c	37;"	l	line:37
+w_temp	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1784;"	l	line:1784
+wildcard_character_found	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.c	1651;"	l	line:1651
+word	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\main.h	162;"	m	line:162	union:_DWORD_VAL
+word	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	159;"	m	line:159	union:_FFS_FILE::<anonymous>
+write_access_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	515;"	v	line:515
+write_append_only	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	152;"	m	line:152	struct:_FFS_FILE::<anonymous>::<anonymous>
+write_permitted	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\mem-ffs.h	151;"	m	line:151	struct:_FFS_FILE::<anonymous>::<anonymous>
+write_read_access_mode	C:\_EC\_PROJ\3562 CF Driver\firm\V1-02-mmcsd\ap-main.c	518;"	v	line:518
